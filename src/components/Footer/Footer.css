@@ -16,7 +16,7 @@
 
 
 }
-.fpoter ul{
+.footer ul{
     display: grid;
     grid-template-columns:auto auto auto auto ;
     gap:15px;
